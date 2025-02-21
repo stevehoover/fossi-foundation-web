@@ -483,6 +483,6 @@ These two features can currently be seen in the Makerchip IDE's waveform viewer.
 
 *Duration:* 350 hrs
 
-*Repo:* https://gitlab.com/spade-lang/spade
+*Repo:* https://gitlab.com/surfer-project/surfer
 
 *Mentors:* [Frans Skarman](mailto:frans.skarman@protonmail.com) (creator of Surfer and Spade), [Oscar Gustafsson](mailto:oscar.gustafsson@liu.se), [Steve Hoover](mailto:steve.hoover@redwoodeda.com) (creator of TL-Verilog & Makerchip)
